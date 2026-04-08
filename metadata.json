@@ -1,0 +1,5 @@
+{
+  "name": "StudyFlare",
+  "description": "A real-time study matching app. Broadcast your study intentions with a 'Flare' and connect with nearby students instantly.",
+  "requestFramePermissions": ["geolocation"]
+}
